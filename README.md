@@ -2,6 +2,8 @@
 
 Restful API that allows a client to interact with movie, review, and theater data contained within a database. 
 
+* To run -> fork/clone respository -> npm install -> npm run start
+
 ## Routes
 
 ### /movies
