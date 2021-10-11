@@ -47,4 +47,4 @@ Restful API that allows a client to interact with movie, review, and theater dat
 
 ### Database:
 
-* PostgresQL
+* PostgreSQL
